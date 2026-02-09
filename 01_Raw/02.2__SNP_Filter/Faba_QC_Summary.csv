@@ -1,0 +1,5 @@
+Stage,Samples,SNPs,Sample_Loss_Pct,SNP_Loss_Pct
+Raw,0,566540,0,0.0
+After mind (0.50),0,550755,0,2.7862
+After geno (0.05) & maf (0.05),0,550755,0,-0.0
+After LD pruning (r²<0.5),0,41706,0,92.4275

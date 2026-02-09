@@ -1,0 +1,6 @@
+Stage	Parameters	Samples	SNPs	Description
+Raw dataset	None	19	41706	Initial unfiltered input dataset.
+After mind (missingness)	--mind 0.50	19	550755	Removed samples with >50% missing data.
+After geno + MAF filter	--geno 0.05, --maf 0.05	19	17705	Excluded SNPs with >5% missingness and MAF <0.05.
+After LD pruning	--indep-pairwise 50 5 0.5	21	550755	Removed SNPs in high LD.
+After heterozygosity QC	±3 SD from mean F	-	-	Removed heterozygosity outliers (if any).

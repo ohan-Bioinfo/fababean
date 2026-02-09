@@ -1,0 +1,129 @@
+FABA BEAN SAMPLE INFORMATION SUMMARY
+============================================================
+
+Sample ID: F1
+  Accession Bank ID: 1543
+  Local Name: hassawy_3
+  Collection Country: Saudi-Arabia
+  Collection Site: KSA(Al-Hasa)
+----------------------------------------
+Sample ID: F10
+  Accession Bank ID: 1552
+  Local Name: sakha-1_x_luz
+  Collection Country: Saudi-Arabia
+  Collection Site: KSA
+----------------------------------------
+Sample ID: F11
+  Accession Bank ID: 1558
+  Local Name: L56-DP
+  Collection Country: Saudi-Arabia
+  Collection Site: KSA
+----------------------------------------
+Sample ID: F12
+  Accession Bank ID: 1559
+  Local Name: TW-3
+  Collection Country: Saudi-Arabia
+  Collection Site: KSA
+----------------------------------------
+Sample ID: F13
+  Accession Bank ID: 1560
+  Local Name: TW-4
+  Collection Country: Saudi-Arabia
+  Collection Site: KSA
+----------------------------------------
+Sample ID: F14
+  Accession Bank ID: 1553
+  Local Name: sakha-2
+  Collection Country: Egypt
+  Collection Site: Egypt
+----------------------------------------
+Sample ID: F15
+  Accession Bank ID: 1554
+  Local Name: luz 
+  Collection Country: Spain
+  Collection Site: Spain
+----------------------------------------
+Sample ID: F16
+  Accession Bank ID: 1555
+  Local Name: Firod
+  Collection Country: Australia
+  Collection Site: Australia
+----------------------------------------
+Sample ID: F17
+  Accession Bank ID: 1556
+  Local Name: gazira-1
+  Collection Country: Sudan
+  Collection Site: Sudan
+----------------------------------------
+Sample ID: F18
+  Accession Bank ID: 1557
+  Local Name: jazira-2
+  Collection Country: Sudan
+  Collection Site: Sudan
+----------------------------------------
+Sample ID: F2
+  Accession Bank ID: 1544
+  Local Name: Misr_3
+  Collection Country: Egypt
+  Collection Site: Egypt
+----------------------------------------
+Sample ID: F20
+  Accession Bank ID: 823
+  Local Name: 823
+  Collection Country: nan
+  Collection Site: KSA(Najd)
+----------------------------------------
+Sample ID: F22
+  Accession Bank ID: 1561
+  Local Name: PBA
+  Collection Country: Australia
+  Collection Site: Australia
+----------------------------------------
+Sample ID: F23
+  Accession Bank ID: 1562
+  Local Name: Giza-Blanka 
+  Collection Country: Egypt
+  Collection Site: Egypt
+----------------------------------------
+Sample ID: F3
+  Accession Bank ID: 1545
+  Local Name: L53_D
+  Collection Country: Saudi-Arabia
+  Collection Site: KSA
+----------------------------------------
+Sample ID: F4
+  Accession Bank ID: 1546
+  Local Name: hassawy1
+  Collection Country: Saudi-Arabia
+  Collection Site: KSA(Al-Hasa)
+----------------------------------------
+Sample ID: F5
+  Accession Bank ID: 1547
+  Local Name: luz_x_G716
+  Collection Country: Saudi-Arabia
+  Collection Site: KSA
+----------------------------------------
+Sample ID: F6
+  Accession Bank ID: 1548
+  Local Name: ksu_9-13
+  Collection Country: Saudi-Arabia
+  Collection Site: KSA
+----------------------------------------
+Sample ID: F7
+  Accession Bank ID: 1549
+  Local Name: ksu_11-13
+  Collection Country: Saudi-Arabia
+  Collection Site: KSA
+----------------------------------------
+Sample ID: F8
+  Accession Bank ID: 1550
+  Local Name: ksu_8-13
+  Collection Country: Saudi-Arabia
+  Collection Site: KSA
+----------------------------------------
+Sample ID: F9
+  Accession Bank ID: 1551
+  Local Name: ksu_16-13
+  Collection Country: Saudi-Arabia
+  Collection Site: KSA
+----------------------------------------

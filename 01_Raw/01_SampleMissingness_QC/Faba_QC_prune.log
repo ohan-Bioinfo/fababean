@@ -1,0 +1,228 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --allow-extra-chr
+  --bfile Faba_QC_geno_maf
+  --indep-pairwise 50 5 0.5
+  --out Faba_QC_prune
+
+Hostname: mr
+Working directory: /home/emz/Storage/Data/Plant/SEEd/Data/Raw-Data/GBS/Faba-Bean-Vicia-/02.Analysis.local/iter-3/01_Raw/01_SampleMissingness_QC
+Start time: Wed Oct  8 15:50:45 2025
+
+Random number seed: 1759938645
+338450 MB RAM detected; reserving 169225 MB for main workspace.
+41706 variants loaded from .bim file.
+19 people (0 males, 0 females, 19 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to Faba_QC_prune.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 19 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+41706 variants and 19 people pass filters and QC.
+Note: No phenotypes present.
+Pruned 3994 variants from chromosome 2, leaving 2907.
+Pruned 3303 variants from chromosome 3, leaving 2408.
+Pruned 3958 variants from chromosome 4, leaving 2521.
+Pruned 2841 variants from chromosome 5, leaving 1989.
+Pruned 3139 variants from chromosome 6, leaving 1997.
+Pruned 4124 variants from chromosome 27, leaving 3242.
+Pruned 2275 variants from chromosome 28, leaving 2010.
+Pruned 7 variants from chromosome 29, leaving 3.
+Pruned 2 variants from chromosome 30, leaving 6.
+Pruned 1 variant from chromosome 31, leaving 5.
+Pruned 0 variants from chromosome 32, leaving 5.
+Pruned 0 variants from chromosome 33, leaving 1.
+Pruned 2 variants from chromosome 34, leaving 3.
+Pruned 0 variants from chromosome 35, leaving 1.
+Pruned 0 variants from chromosome 36, leaving 1.
+Pruned 3 variants from chromosome 37, leaving 1.
+Pruned 0 variants from chromosome 38, leaving 1.
+Pruned 0 variants from chromosome 39, leaving 1.
+Pruned 3 variants from chromosome 40, leaving 3.
+Pruned 2 variants from chromosome 41, leaving 3.
+Pruned 0 variants from chromosome 42, leaving 1.
+Pruned 5 variants from chromosome 43, leaving 3.
+Pruned 3 variants from chromosome 44, leaving 5.
+Pruned 0 variants from chromosome 45, leaving 1.
+Pruned 4 variants from chromosome 46, leaving 11.
+Pruned 1 variant from chromosome 47, leaving 3.
+Pruned 1 variant from chromosome 48, leaving 2.
+Pruned 0 variants from chromosome 49, leaving 1.
+Pruned 0 variants from chromosome 50, leaving 1.
+Pruned 2 variants from chromosome 51, leaving 5.
+Pruned 8 variants from chromosome 52, leaving 3.
+Pruned 0 variants from chromosome 53, leaving 5.
+Pruned 1 variant from chromosome 54, leaving 3.
+Pruned 1 variant from chromosome 55, leaving 5.
+Pruned 0 variants from chromosome 56, leaving 1.
+Pruned 6 variants from chromosome 57, leaving 4.
+Pruned 2 variants from chromosome 58, leaving 3.
+Pruned 2 variants from chromosome 59, leaving 2.
+Pruned 6 variants from chromosome 60, leaving 4.
+Pruned 9 variants from chromosome 61, leaving 12.
+Pruned 0 variants from chromosome 62, leaving 3.
+Pruned 5 variants from chromosome 63, leaving 4.
+Pruned 2 variants from chromosome 64, leaving 5.
+Pruned 3 variants from chromosome 65, leaving 3.
+Pruned 5 variants from chromosome 66, leaving 2.
+Pruned 3 variants from chromosome 67, leaving 2.
+Pruned 0 variants from chromosome 68, leaving 1.
+Pruned 2 variants from chromosome 69, leaving 3.
+Pruned 1 variant from chromosome 70, leaving 3.
+Pruned 1 variant from chromosome 71, leaving 1.
+Pruned 0 variants from chromosome 72, leaving 2.
+Pruned 2 variants from chromosome 73, leaving 6.
+Pruned 0 variants from chromosome 74, leaving 2.
+Pruned 2 variants from chromosome 75, leaving 2.
+Pruned 5 variants from chromosome 76, leaving 4.
+Pruned 0 variants from chromosome 77, leaving 3.
+Pruned 0 variants from chromosome 78, leaving 2.
+Pruned 4 variants from chromosome 79, leaving 4.
+Pruned 1 variant from chromosome 80, leaving 1.
+Pruned 0 variants from chromosome 81, leaving 1.
+Pruned 9 variants from chromosome 82, leaving 6.
+Pruned 1 variant from chromosome 83, leaving 6.
+Pruned 0 variants from chromosome 84, leaving 1.
+Pruned 2 variants from chromosome 85, leaving 2.
+Pruned 3 variants from chromosome 86, leaving 3.
+Pruned 0 variants from chromosome 87, leaving 5.
+Pruned 0 variants from chromosome 88, leaving 1.
+Pruned 1 variant from chromosome 89, leaving 4.
+Pruned 0 variants from chromosome 90, leaving 3.
+Pruned 0 variants from chromosome 91, leaving 1.
+Pruned 0 variants from chromosome 92, leaving 1.
+Pruned 0 variants from chromosome 93, leaving 1.
+Pruned 2 variants from chromosome 94, leaving 1.
+Pruned 0 variants from chromosome 95, leaving 3.
+Pruned 0 variants from chromosome 96, leaving 2.
+Pruned 0 variants from chromosome 97, leaving 4.
+Pruned 1 variant from chromosome 98, leaving 3.
+Pruned 10 variants from chromosome 99, leaving 9.
+Pruned 1 variant from chromosome 100, leaving 6.
+Pruned 2 variants from chromosome 101, leaving 1.
+Pruned 2 variants from chromosome 102, leaving 3.
+Pruned 0 variants from chromosome 103, leaving 1.
+Pruned 1 variant from chromosome 104, leaving 1.
+Pruned 5 variants from chromosome 105, leaving 7.
+Pruned 1 variant from chromosome 106, leaving 1.
+Pruned 4 variants from chromosome 107, leaving 5.
+Pruned 3 variants from chromosome 108, leaving 4.
+Pruned 5 variants from chromosome 109, leaving 3.
+Pruned 3 variants from chromosome 110, leaving 3.
+Pruned 0 variants from chromosome 111, leaving 1.
+Pruned 0 variants from chromosome 112, leaving 4.
+Pruned 0 variants from chromosome 113, leaving 1.
+Pruned 12 variants from chromosome 114, leaving 7.
+Pruned 0 variants from chromosome 115, leaving 2.
+Pruned 0 variants from chromosome 116, leaving 1.
+Pruned 3 variants from chromosome 117, leaving 2.
+Pruned 0 variants from chromosome 118, leaving 2.
+Pruned 4 variants from chromosome 119, leaving 4.
+Pruned 2 variants from chromosome 120, leaving 1.
+Pruned 0 variants from chromosome 121, leaving 4.
+Pruned 0 variants from chromosome 122, leaving 2.
+Pruned 0 variants from chromosome 123, leaving 1.
+Pruned 0 variants from chromosome 124, leaving 1.
+Pruned 0 variants from chromosome 125, leaving 6.
+Pruned 5 variants from chromosome 126, leaving 4.
+Pruned 1 variant from chromosome 127, leaving 2.
+Pruned 1 variant from chromosome 128, leaving 4.
+Pruned 3 variants from chromosome 129, leaving 8.
+Pruned 1 variant from chromosome 130, leaving 2.
+Pruned 0 variants from chromosome 131, leaving 3.
+Pruned 0 variants from chromosome 132, leaving 1.
+Pruned 4 variants from chromosome 133, leaving 3.
+Pruned 1 variant from chromosome 134, leaving 1.
+Pruned 1 variant from chromosome 135, leaving 2.
+Pruned 0 variants from chromosome 136, leaving 3.
+Pruned 2 variants from chromosome 137, leaving 3.
+Pruned 1 variant from chromosome 138, leaving 2.
+Pruned 2 variants from chromosome 139, leaving 6.
+Pruned 6 variants from chromosome 140, leaving 7.
+Pruned 0 variants from chromosome 141, leaving 2.
+Pruned 0 variants from chromosome 142, leaving 1.
+Pruned 0 variants from chromosome 143, leaving 3.
+Pruned 0 variants from chromosome 144, leaving 4.
+Pruned 1 variant from chromosome 145, leaving 2.
+Pruned 9 variants from chromosome 146, leaving 9.
+Pruned 0 variants from chromosome 147, leaving 1.
+Pruned 0 variants from chromosome 148, leaving 1.
+Pruned 2 variants from chromosome 149, leaving 2.
+Pruned 3 variants from chromosome 150, leaving 11.
+Pruned 0 variants from chromosome 151, leaving 3.
+Pruned 4 variants from chromosome 152, leaving 10.
+Pruned 2 variants from chromosome 153, leaving 2.
+Pruned 0 variants from chromosome 154, leaving 1.
+Pruned 0 variants from chromosome 155, leaving 1.
+Pruned 0 variants from chromosome 156, leaving 5.
+Pruned 1 variant from chromosome 157, leaving 4.
+Pruned 5 variants from chromosome 158, leaving 5.
+Pruned 0 variants from chromosome 159, leaving 1.
+Pruned 0 variants from chromosome 160, leaving 1.
+Pruned 2 variants from chromosome 161, leaving 6.
+Pruned 1 variant from chromosome 162, leaving 2.
+Pruned 1 variant from chromosome 163, leaving 2.
+Pruned 2 variants from chromosome 164, leaving 3.
+Pruned 4 variants from chromosome 165, leaving 6.
+Pruned 16 variants from chromosome 166, leaving 12.
+Pruned 2 variants from chromosome 167, leaving 1.
+Pruned 1 variant from chromosome 168, leaving 2.
+Pruned 2 variants from chromosome 169, leaving 4.
+Pruned 0 variants from chromosome 170, leaving 2.
+Pruned 0 variants from chromosome 171, leaving 1.
+Pruned 0 variants from chromosome 172, leaving 2.
+Pruned 0 variants from chromosome 173, leaving 1.
+Pruned 2 variants from chromosome 174, leaving 6.
+Pruned 0 variants from chromosome 175, leaving 4.
+Pruned 12 variants from chromosome 176, leaving 5.
+Pruned 6 variants from chromosome 177, leaving 9.
+Pruned 3 variants from chromosome 178, leaving 5.
+Pruned 1 variant from chromosome 179, leaving 3.
+Pruned 10 variants from chromosome 180, leaving 5.
+Pruned 2 variants from chromosome 181, leaving 5.
+Pruned 5 variants from chromosome 182, leaving 4.
+Pruned 0 variants from chromosome 183, leaving 1.
+Pruned 0 variants from chromosome 184, leaving 1.
+Pruned 1 variant from chromosome 185, leaving 1.
+Pruned 4 variants from chromosome 186, leaving 4.
+Pruned 1 variant from chromosome 187, leaving 1.
+Pruned 2 variants from chromosome 188, leaving 1.
+Pruned 0 variants from chromosome 189, leaving 1.
+Pruned 6 variants from chromosome 190, leaving 4.
+Pruned 0 variants from chromosome 191, leaving 1.
+Pruned 0 variants from chromosome 192, leaving 1.
+Pruned 6 variants from chromosome 193, leaving 5.
+Pruned 0 variants from chromosome 194, leaving 2.
+Pruned 3 variants from chromosome 195, leaving 2.
+Pruned 0 variants from chromosome 196, leaving 1.
+Pruned 1 variant from chromosome 197, leaving 1.
+Pruned 0 variants from chromosome 198, leaving 1.
+Pruned 0 variants from chromosome 199, leaving 2.
+Pruned 7 variants from chromosome 200, leaving 9.
+Pruned 0 variants from chromosome 201, leaving 4.
+Pruned 0 variants from chromosome 202, leaving 2.
+Pruned 0 variants from chromosome 203, leaving 5.
+Pruned 0 variants from chromosome 204, leaving 1.
+Pruned 1 variant from chromosome 205, leaving 5.
+Pruned 1 variant from chromosome 206, leaving 7.
+Pruned 5 variants from chromosome 207, leaving 10.
+Pruned 1 variant from chromosome 208, leaving 1.
+Pruned 1 variant from chromosome 209, leaving 6.
+Pruned 2 variants from chromosome 210, leaving 9.
+Pruned 1 variant from chromosome 211, leaving 1.
+Pruned 6 variants from chromosome 212, leaving 5.
+Pruned 2 variants from chromosome 213, leaving 3.
+Pruned 0 variants from chromosome 214, leaving 4.
+Pruned 2 variants from chromosome 215, leaving 6.
+Pruned 0 variants from chromosome 216, leaving 6.
+Pruned 2 variants from chromosome 217, leaving 1.
+Pruned 0 variants from chromosome 218, leaving 3.
+Pruned 0 variants from chromosome 219, leaving 1.
+Pruned 0 variants from chromosome 220, leaving 1.
+Pruned 0 variants from chromosome 221, leaving 1.
+Pruned 1 variant from chromosome 222, leaving 2.
+Pruned 0 variants from chromosome 223, leaving 5.
+Pruning complete.  24001 of 41706 variants removed.
+Marker lists written to Faba_QC_prune.prune.in and Faba_QC_prune.prune.out .
+
+End time: Wed Oct  8 15:50:45 2025

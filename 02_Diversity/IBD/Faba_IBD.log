@@ -1,0 +1,18 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile 03_LD_Prune/Faba_chrOnly_pruned
+  --genome
+  --out Diversity/IBD/Faba_IBD
+  --threads 55
+
+Hostname: mr
+Working directory: /home/emz/Storage/Data/Plant/SEEd/Data/Raw-Data/GBS/Faba-Bean-Vicia-/Analysis/iter-2/Statstics
+Start time: Thu Oct  2 21:35:35 2025
+
+Random number seed: 1759440935
+338450 MB RAM detected; reserving 169225 MB for main workspace.
+
+Error: Invalid chromosome code 'chr1L' on line 11361 of .bim file.
+(Use --allow-extra-chr to force it to be accepted.)
+
+End time: Thu Oct  2 21:35:35 2025

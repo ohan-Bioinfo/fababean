@@ -1,0 +1,28 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --allow-extra-chr
+  --bfile data/Faba_high_quality
+  --extract data/top_150_snps_list.txt
+  --make-bed
+  --out data/faba_fingerprint
+
+Hostname: mr
+Working directory: /home/emz/Storage/Data/Plant/SEEd/Data/Raw-Data/GBS/Faba-Bean-Vicia-/Analysis/iter-3/Fingerprint
+Start time: Fri Oct  3 00:05:46 2025
+
+Random number seed: 1759449946
+338450 MB RAM detected; reserving 169225 MB for main workspace.
+1703 variants loaded from .bim file.
+21 people (0 males, 0 females, 21 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to data/faba_fingerprint.nosex .
+--extract: 150 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 21 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.965714.
+150 variants and 21 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to data/faba_fingerprint.bed + data/faba_fingerprint.bim +
+data/faba_fingerprint.fam ... done.
+
+End time: Fri Oct  3 00:05:46 2025
