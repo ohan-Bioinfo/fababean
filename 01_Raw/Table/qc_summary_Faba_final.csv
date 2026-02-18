@@ -1,6 +1,0 @@
-Stage,Parameters,Samples,SNPs,Description
-01_Raw,VCF→PLINK,21,550755,Initial conversion (chr1-chr6)
-02_GENO,--geno 0.05,21,33077,Remove variants with >5% missingness
-02_MAF,--maf 0.05,21,33077,Remove variants with MAF <5%
-03_LD_Prune,--indep-pairwise 50 5 0.5,21,17170,LD pruning (window=50, step=5, r²=0.5)
-04_Het_QC,No outliers,21,21,All samples within normal heterozygosity range
