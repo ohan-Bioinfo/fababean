@@ -1,5 +1,0 @@
-Method,Recommended k,Metric Value,Interpretation
-Elbow Method,3,0,Point of maximum curvature in inertia
-Silhouette Score,3,0.655,Highest average silhouette width
-Calinski-Harabasz,8,120.2,Highest variance ratio between clusters
-BIC (GMM),8,-51.3,Lowest Bayesian Information Criterion
